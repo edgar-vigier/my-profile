@@ -1,0 +1,75 @@
+h1 {
+	color: black;
+	font-size: 50px;
+	font-family: impact;
+	letter-spacing: 2px;
+	margin-top: 0px;
+}
+body {
+	background-image: url(images/motif2.jpg);
+	font-family: 'Merriweather', serif;
+}
+p {
+	font-weight: bold;
+	text-align: justify;
+}
+a:hover {
+	color: rgb(150, 150, 200);
+}
+a {
+	text-decoration: none;
+	color: rgb(200, 200, 200);
+}
+h3 { 
+color: rgb(100, 100, 100);
+}
+div {
+    box-shadow: 5px 10px 30px rgba(0,0,0,0.3);
+    margin: 50px auto;
+    background: white;
+    padding: 70px;
+    border-radius: 50px;
+    width: 630px;
+    text-align: center;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border-radius: 50%;
+	border: 6px solid rgb(150, 150, 150);
+}
+h1, h2, h3 {
+	text-align: center;
+}
+ul{
+	padding-left: 0px;
+}
+li{
+	display: inline;
+	padding: 30px;
+}
+i{
+	font-size: 50px;
+}
+#jaaj {
+	width: 930px;
+	background-color: #bbbbbb;
+	padding-top: 25px;
+}
+#look {
+	background-color: rgb(150, 150, 200);
+	color: white;
+	padding : 10px 15px;
+	border-radius: 5px;
+}
+#look:hover {
+	background-color: white;
+	color: rgb(150, 150, 200);
+	border: 2px solid rgb(150, 150, 200);
+}
+#maintext {
+	margin-bottom: 60px;
+	margin-top: 30px;
+}
